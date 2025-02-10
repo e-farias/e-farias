@@ -1,14 +1,14 @@
 # Olá! Me chamo < Farias /> <img src ="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width='30px' height='30px'>
 
-<br>
-
 ### Sobre mim
+
 - 🔭 Trabalho atualmente liderando desenvolvimentos de plataformas baseadas em micro serviços, MVC e SaaS no ecosistema Node (React, NextJS, React Native, NestJS) com serviços em nuvem da AWS
-- 🌱 Atualmente estudando desenvolvimento mobile com React Native
+- 🌱 Atualmente estudando IA como serviço e desenvolvimento mobile (React Native)
 
 <br>
 
-### Tecnologias e ferramentas:
+### Tecnologias e ferramentas
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat-square)
@@ -37,23 +37,22 @@
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white&style=flat-square)
 
-<br>
+<!-- ### Estatísticas
 
-### Estatísticas
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=e-farias&show_icons=true&theme=transparent&include_all_commits=true&locale=pt-br" 
+  <img
+    align="left"
+    alt="GitHub Stats"
+    height="200"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api?username=e-farias&show_icons=true&theme=transparent&include_all_commits=true&locale=pt-br"
   />
 </p>
 
-<br>
+<br> -->
 
 ### Contato
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)(https://www.linkedin.com/in/thefarias/)]
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)(https://wa.me/5581982402134?text=Ol%C3%A1,%20queria%20bater%20um%20papo%20sobre%20tecnologia!)]
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)(contato@fariasdev.com)]
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/thefarias/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/5581982402134?text=Ol%C3%A1,%20queria%20bater%20um%20papo%20sobre%20tecnologia!)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](contato@fariasdev.com)
