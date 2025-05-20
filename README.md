@@ -2,7 +2,7 @@
 
 ### Sobre mim
 
-- 🔭 Trabalho atualmente liderando desenvolvimentos de SaaS e plataformas multi-tenancy baseadas em micro serviços e MVC no ecosistema Node (React, NextJS, React Native, NestJS) com serviços da AWS, GCP, Vercel e DigitalOcean.
+- 🔭 Lidero desenvolvimento de SaaS e plataformas multi-tenancy baseadas em micro serviços e MVC no ecosistema Node (React, NextJS, React Native, NestJS) com serviços da AWS, GCP, Vercel e DigitalOcean.
 - 🌱 Atualmente estudando desenvolvimento mobile (React Native) e IA como serviço
 
 <br>
