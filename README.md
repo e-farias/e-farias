@@ -2,8 +2,10 @@
 
 ### Sobre mim
 
-- 🔭 Lidero desenvolvimento de SaaS e plataformas multi-tenancy baseadas em micro serviços e MVC no ecosistema Node (React, NextJS, React Native, NestJS) com serviços da AWS, GCP, Vercel e DigitalOcean.
-- 🌱 Atualmente estudando desenvolvimento mobile (React Native) e IA como serviço
+- 💼 CTO do InteraTo
+- 💻 Software Engineer há + de 6 anos
+- 🔭 Lidero o desenvolvimento de SaaS e plataformas multi-tenant baseadas em MVC com micro serviços assíncronos no ecosistema Node (React, NextJS, React Native, NestJS) com serviços da AWS, GCP, Vercel e DigitalOcean.
+- 🌱 Atualmente estudando harness engineering, IA como serviço e TOTVS Analytics GoodData
 
 <br>
 
